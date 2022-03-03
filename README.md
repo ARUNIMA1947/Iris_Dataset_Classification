@@ -13,7 +13,7 @@ PetalWidthCm
 Species
 
 Libraries Used:
-Pandas
-Seaborn
-Matplotlib
+Pandas,
+Seaborn,
+Matplotlib,
 Sklearn
